@@ -1,0 +1,13 @@
+[user]
+	name = Sara
+	email = sara@indeterminate.net
+[color]
+	ui = true
+[core]
+	autocrlf = true
+	excludesfile = C:/Users/sara/.gitignore_global
+[github]
+	user = Sara-Hamilton
+				
+[winUpdater]
+	recentlySeenVersion = 2.17.0.windows.1
